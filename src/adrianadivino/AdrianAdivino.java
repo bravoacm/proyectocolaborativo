@@ -7,8 +7,12 @@ package adrianadivino;
 
 import java.util.Scanner;
 
+/** CORREGIDO POR: SERGIO VAQUERO GARCIA. FUNCIONA CORRECTAMENTE Y CREA EL
+ *  PROYECTO DE FORMA CORRECTA TAMBIÉN.
+ */
+
 /**
- *
+ * 
  * @author Adrian Bravo
  */
 public class AdrianAdivino {

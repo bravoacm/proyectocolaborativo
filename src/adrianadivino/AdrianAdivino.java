@@ -10,6 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author Adrian Bravo
+ Corrector: James Lomax
  */
 public class AdrianAdivino {
 
